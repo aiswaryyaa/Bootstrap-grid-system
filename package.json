@@ -1,0 +1,22 @@
+{
+  "name": "assignment-1",
+  "version": "1.0.0",
+  "description": "This is my first assignment of bootstrap",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aiswaryyaa/Bootstrap-grid-system.git"
+  },
+  "author": "Aiswarya Pradeep",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aiswaryyaa/Bootstrap-grid-system/issues"
+  },
+  "homepage": "https://github.com/aiswaryyaa/Bootstrap-grid-system#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
